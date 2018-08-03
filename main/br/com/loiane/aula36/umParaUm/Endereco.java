@@ -1,4 +1,4 @@
-package Loiane.main.br.com.loiane.aula36;
+package Loiane.main.br.com.loiane.aula36.umParaUm;
 
 public class Endereco {
 
