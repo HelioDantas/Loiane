@@ -1,4 +1,4 @@
-package br.com.loiane.aula36;
+package Loiane.main.br.com.loiane.aula36;
 
 public class Contato {
 	private String name;
@@ -18,13 +18,14 @@ public class Contato {
 	public void setEndereco(Endereco endereco) {
 		this.endereco = endereco;
 	}
-	
-	public Telefone getTelefone() {
+	public Telefone getTelefones() {
 		return telefone;
 	}
-	public void setTelefone(Telefone telefone) {
+	public void setTelefones(Telefone telefone) {
 		this.telefone = telefone;
 	}
+	
+
 	
 	
 	
